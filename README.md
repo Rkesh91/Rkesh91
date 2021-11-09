@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rkesh91
-- 👀 I’m interested in dikke poezen
-- 🌱 I’m currently learning iets over poezen
+- 👀 I’m interested in SpotMicro Developing
+- 🌱 I’m currently learning about Programming Languages
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me : de postduif ( als die niet inmiddels al is neergeschoten) 
 
